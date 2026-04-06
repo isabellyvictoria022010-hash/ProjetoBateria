@@ -9,7 +9,7 @@ public class CellBateria {
     public CellBateria(int nivel) {
         this.setNivel(nivel);
     }
-
+   
 
 
     public int getNivel() {
